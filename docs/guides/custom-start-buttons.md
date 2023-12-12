@@ -5,7 +5,7 @@ description: This page explains how to add custom start menu buttons to a narrat
 
 # Custom start menu buttons
 
-Customm start menu buttons can be added to the game using the plugin system. Plugins can have a `startMenuButtons` array containing objects that define those custom buttons
+Custom start menu buttons can be added to the game using the plugin system. Plugins can have a `startMenuButtons` array containing objects that define those custom buttons
 
 ## How to use
 
